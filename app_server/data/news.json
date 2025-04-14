@@ -1,49 +1,46 @@
 {
-    "latestNews": [
-        {
-            "title": "2023 Best Beaches Contest Winners",
-            "link": "/news"
-        },
-        {
-            "title": "Top 10 Diving Spots",
-            "link": "/news"
-        },
-        {
-            "title": "Fishing ban to be implemented this year",
-            "link": "/news"
-        },
-        {
-            "title": "Lifeguard saves child from drowning",
-            "link": "/news"
-        }
-    ],
-    "vacationTips": [
-        {
-            "tip": "What to bring on the beach?",
-            "link": "/news"
-        },
-        {
-            "tip": "Planning Fun Activities",
-            "link": "/news"
-        },
-        {
-            "tip": "Diving Checklist",
-            "link": "/news"
-        },
-        {
-            "tip": "First Aid",
-            "link": "/news"
-        },
-        {
-            "tip": "How to Build a Sand Castle?",
-            "link": "/news"
-        },
-        {
-            "tip": "Tanning Tips",
-            "link": "/news"
-        }
-    ],
-    "featuredStory": {
+    "1": {
+        "code": "LATEST_1",
+        "title": "2023 Best Beaches Contest Winners"
+    },
+    "2": {
+        "code": "LATEST_2",
+        "title": "Top 10 Diving Spots"
+    },
+    "3": {
+        "code": "LATEST_3",
+        "title": "Fishing ban to be implemented this year"
+    },
+    "4": {
+        "code": "LATEST_4",
+        "title": "Lifeguard saves child from drowning"
+    },
+    "5": {
+        "code": "TIPS_1",
+        "title": "What to bring on the beach?"
+    },
+    "6": {
+        "code": "TIPS_2",
+        "title": "Planning Fun Activities"
+    },
+    "7": {
+        "code": "TIPS_3",
+        "title": "Diving Checklist"
+    },
+    "8": {
+        "code": "TIPS_4",
+        "title": "First Aid"
+    },
+    "9": {
+        "code": "TIPS_5",
+        "title": "How to Build a Sand Castle?"
+    },
+    "10": {
+        "code": "TIPS_6",
+        "title": "Tanning Tips"
+    },
+    "11": {
+        "code": "FEATURED_1",
         "title": "Experience Kayaking!",
         "author": "Juan De La Cruz",
         "publishDate": "April 03, 2023",
